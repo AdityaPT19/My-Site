@@ -1,0 +1,148 @@
+.top-container {
+    background-color:azure;
+    padding-top: 100px;
+    position: relative;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+#web {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.875rem;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: honeydew;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    top: 300px;
+    bottom: 300px;
+    left: 200px;
+
+}
+
+.top-cloud{
+    position: absolute;
+    top: 80px;
+    right: 300px;
+}
+
+.mountain {
+    padding-top: 50px;
+    
+}
+
+.middle-container {
+    padding-top: 50px;
+}
+
+.my-image {
+    height: 200px;
+    width: 200px;
+}
+
+h2,h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.50rem;
+}
+
+.skill {
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+    float: left;
+    margin-right: 30px;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 4;
+    font-size: 1.25rem;
+}
+
+.human {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 0;
+    float:right;
+    margin-left: 30px;
+}
+
+.btn {
+    background-color: rgba(34, 31, 31, 0.6);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 4px;
+}
+
+.bottom-container {
+    margin-top: 25px;
+    display:inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+.bottom-p {
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.logo {
+    width:30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.logo:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 30%;
+}
+
+h2 {
+    font-size: x-large;
+    color: rgb(74, 141, 74);
+}
+
+#skill-text {
+    margin-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.footer {
+    background-color: rgb(219, 207, 207);
+    margin: 30px auto 0 auto;
+}
